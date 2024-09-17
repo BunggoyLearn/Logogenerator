@@ -1,5 +1,6 @@
 const Shapes = require('./shapes.js');
 
+//Creates a triangle and exports it
 class Triangle extends Shapes {
     constructor(textColor, color, text) {
         super(textColor, color, text);
