@@ -9,5 +9,9 @@ You can install this by copying the index.js file and running it through a termi
 
 https://img.shields.io/badge/npm-_inquirer-black
 
+## Video Demonstration
+
+[Link to the video](https://youtu.be/wAo35Dav4QY)
+
 
 

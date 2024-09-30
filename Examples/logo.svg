@@ -2,6 +2,6 @@
             <!DOCTYPE html>
             <html>
             <body>
-                <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg"><rect width="150" height="150" x="75" y="30" fill="red" /><text text-anchor="middle" fill="white" font-size="45px" stroke-width="1px" x="150px" y="145px"> pee </text></svg>
+                <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg"><polygon points="150, 18 244, 182 56, 182" fill="white" /><text text-anchor="middle" fill="blue" font-size="45px" stroke-width="1px" x="150px" y="145px"> bob </text></svg>
             </body>
             </html>
